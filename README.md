@@ -26,7 +26,7 @@ It also prepares them to talk about practical experience in interviews — somet
 
 ---
 
-### **CH03-2025 Project 101: A Real-Time Crypto Data Pipeline from Binance API to Cassandra with CDC and Visualization.**
+### **CH02-2025 Project 101: A Real-Time Crypto Data Pipeline from Binance API to Cassandra with CDC and Visualization.**
 
 Build a real-time data pipeline that pulls data from the Binance API, stores it in PostgreSQL or MySQL, replicates changes to Cassandra via Change Data Capture (CDC), and visualizes live metrics (e.g., top 5 performing cryptocurrencies by 24h percentage gain) using Grafana dashboards.
 
