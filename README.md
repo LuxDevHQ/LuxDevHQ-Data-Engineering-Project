@@ -31,7 +31,7 @@ Build a real-time data pipeline that pulls data from the Binance API, stores it 
 
 ### ✅ Phase 1: Binance API Integration
 
-Extract real-time market data from:
+Extract real-time market data from, https://www.binance.com/en/binance-api
 
 | **Data Type**         | **Endpoint**                  |
 |------------------------|-------------------------------|
