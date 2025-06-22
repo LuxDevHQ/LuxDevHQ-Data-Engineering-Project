@@ -23,3 +23,9 @@ This improves problem-solving, collaboration, and technical decision-making unde
 Completing real-world projects adds serious value to a learner’s portfolio and boosts their confidence.
 
 It also prepares them to talk about practical experience in interviews — something many bootcamps struggle to offer at this depth.
+
+
+CH03-2025 Project 101: 
+
+<img width="197" alt="image" src="https://github.com/user-attachments/assets/3011638c-867d-4928-a7bf-b42a23fbe47f" />
+
