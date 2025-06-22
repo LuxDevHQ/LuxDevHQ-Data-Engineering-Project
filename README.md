@@ -25,7 +25,9 @@ Completing real-world projects adds serious value to a learner’s portfolio and
 It also prepares them to talk about practical experience in interviews — something many bootcamps struggle to offer at this depth.
 
 
-CH03-2025 Project 101: 
+### **CH03-2025 Project 101: A Real-Time Crypto Data Pipeline from Binance API to Cassandra with CDC and Visualization.**
+
+Build a real-time data pipeline that pulls data from the Binance API, stores it in PostgreSQL or MySQL, replicates changes to Cassandra via Change Data Capture (CDC), and visualizes live metrics (e.g., top 5 performing cryptocurrencies by 24h percentage gain) using Grafana dashboards.
 
 <img width="197" alt="image" src="https://github.com/user-attachments/assets/3011638c-867d-4928-a7bf-b42a23fbe47f" />
 
