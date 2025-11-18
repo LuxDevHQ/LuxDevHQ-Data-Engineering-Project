@@ -1,4 +1,3 @@
-````markdown
 ### **CSV Ingestor – Robust, Crash-Safe File Pipeline (Student Project)**
 
 ---
@@ -301,5 +300,4 @@ python -m ingestor.main \
 
 ---
 
-```
 ```
